@@ -1,2 +1,2 @@
 # Vanilla-Javascript-Projects
-This repo has the projects I did when I learned Javascript.
+This repo has some projects I did when I learned Javascript.
